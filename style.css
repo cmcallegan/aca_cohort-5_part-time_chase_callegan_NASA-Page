@@ -1,0 +1,30 @@
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: whitesmoke;
+  font-size: 125px;
+}
+body {
+  width: 870px;
+  margin: 0 auto;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 450px;
+  background-image: url(./astronaut-1784245_1280.jpg);
+}
+
+section {
+  display: flex;
+  font-family:'Source Sans Pro', sans-serif; sans-serif;
+  justify-content: space-evenly;
+  height:400px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: rbg(21,13,46);
+}
+Form * {
+    vertical-align: top;
+  }
